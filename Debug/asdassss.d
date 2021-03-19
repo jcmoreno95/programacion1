@@ -1,0 +1,1 @@
+asdassss.o: ../asdassss.c
